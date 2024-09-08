@@ -6,7 +6,7 @@ As mentioned above, this project was done during my sophomore year, and during t
 
 ## Technologies Used
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
-![php](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![php](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=black)
 
 ## Contributors
 | Name                      | GitHub Profile                                        |  Email                              |
