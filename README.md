@@ -1,5 +1,5 @@
 # WonderPets: Project Overview 
-(*Subject to Change*) WonderPets is an e-commerce management system project during my sophomore year for the Advance Web Application course at the Technological University of the Philippines-Taguig. The system provides a range of services tailored to the needs of pet owners, including grooming and regular check-ups to ensure the well-being of their beloved pets.
+WonderPets is an e-commerce management system project during my sophomore year for the Advance Web Application course at the Technological University of the Philippines-Taguig. The system provides a range of services tailored to the needs of pet owners, including grooming and regular check-ups to ensure the well-being of their beloved pets.
 
 #### Disclaimer
 As mentioned above, this project was done during my sophomore year, and during that time, I still didn't have prior knowledge about GitHub; that's why the files here in this repository are incomplete, but here's the link to the complete version of this project: (https://reallifeph-my.sharepoint.com/:f:/g/personal/rhyearavenrose_calicdan_reallifeph_onmicrosoft_com/EhfX-jolXeBFmqJUpQcuMYMBt1jLQnzJzXsJEMWY-KR-xQ?e=amplNy)
